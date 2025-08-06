@@ -25,11 +25,14 @@ Letâ€™s now go over a couple of syntactical differences to illustrate the power 
 
 [//]: # Snippet 1
 {% highlight python %}
+# Python 
+
 num = 5   
 {% endhighlight %}
 
 [//]: # Snippet 2
 {% highlight cpp %}
+// C++ 
 int num = 5;
 {% endhighlight %}
 
@@ -37,6 +40,8 @@ What difference can we notice? First of all, we observe that in Python, we donâ€
 
 [//]: # Snippet 3
 {% highlight python %}
+# Python
+
 num = 5   # Integer
 num = True   # Boolean
 num = "Hello, world!"   # String
@@ -44,12 +49,13 @@ num = "Hello, world!"   # String
 
 [//]: # Snippet 4
 {% highlight cpp%}
+// C++
+
 // Declaration
 int num = 5;   // num is defined as an integer.
 
 // Reassignment
 num = "Hey";   // ERROR: "Hey" is not an integer
 {% endhighlight %}
-#
 
 
