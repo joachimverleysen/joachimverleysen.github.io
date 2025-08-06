@@ -93,7 +93,7 @@ minima:
 #       * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
 #       * url      Full URL of social profile.
   social_links:
-    - title: Joachim's repository at GitHub
+      title: Joachim's repository at GitHub
       icon: github
       url: "https://github.com/joachimverleysen"
 #     - title: Jekyll at X (formerly Twitter)
