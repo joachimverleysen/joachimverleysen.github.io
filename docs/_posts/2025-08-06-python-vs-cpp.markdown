@@ -23,29 +23,26 @@ Python on the other hand is an interpreted language. It works with an interprete
 
 Let’s now go over a couple of syntactical differences to illustrate the power of the languages in their own way. As mentioned earlier, Python is simple, while C++ is more strict and allows for more control. Let’s just consider a simple variable assignment.
 
-# Snippet 1
+[//]: # Snippet 1
 {% highlight python %}
 num = 5   
 {% endhighlight %}
-#
 
-# Snippet 2
+[//]: # Snippet 2
 {% highlight cpp %}
 int num = 5;
 {% endhighlight %}
-#
 
 What difference can we notice? First of all, we observe that in Python, we don’t have to specify the type when assigning a variable. This is called *dynamic typing.* In C++ on the other hand, we speak of *static typing.* So essentially what this means is that in C++, once you’ve declared a variable as int, it will stay an int forever. Its type is *static.* In Python, the type is ‘guessed’ by the interpreter based on the value that the variable holds. The type of a variable can change in Python, it just depends on what the variable contains.
 
-# Snippet 3
+[//]: # Snippet 3
 {% highlight python %}
 num = 5   # Integer
 num = True   # Boolean
 num = "Hello, world!"   # String
 {% endhighlight %}
-#
 
-# Snippet 4
+[//]: # Snippet 4
 {% highlight cpp%}
 // Declaration
 int num = 5;   // num is defined as an integer.
