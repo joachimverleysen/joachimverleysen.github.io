@@ -17,7 +17,7 @@ Did you know you can click on it? (don't do it though)
 It's customizable and cooler than Wordpress. You can check it out here:
 [Jekyll][jekyll-gh]
 
-[my-gh] : https://github.com/joachimverleysen
+[my-gh]: https://github.com/joachimverleysen
 [jekyll-gh]: https://github.com/jekyll
 
 
