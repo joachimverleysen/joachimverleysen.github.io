@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Linux"
+date:   2025-10-14 21:45:37 +0200
+categories: Linux Unix GNU 
+---
+
+Linux. If you know something about computers, you might have heard of it.
+It's the thing that the nerds use. Because it's "better". Well in this post 
+I'll try to explain what Linux is. And also why it is indeed better than Windows and Mac.
+
+Most people would say that Linux is an 'operating system', just like Windows and Mac OS.
+And... that's not exactly true. Let me explain.
+In the 1970's Dennis Ritchie and Ken Thompson made Unix, an operating system that was pretty good.
+It was not free and could only run on specific machines.
+
+Some time later, Richard Stallman started GNU. A project to make free software, including 
+a Unix-like operating system that is free.
+
+In the 1990's Linus Torvalds made Linux, a kernel. Together with GNU, it can function as a complete operating system. When we use Linux on a desktop, the operating system is actually GNU/Linux. Linux is a kernel, not an operating system.
+
+Check out [this TED Talk](https://youtu.be/o8NPllzkFhE?si=6SZdHB_IlwsCfqic) by Linus Torvalds!
